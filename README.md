@@ -35,4 +35,6 @@ _Salesforce >_ _Confluence >_ _GitHub (markup) >_ _Visual Studio Code >_ _Atom >
 
 ## DOCUMENTATION - Writing Examples
 
+[Sample 1 - Madcap Flare](https://github.com/shescott66/shescott66/blob/main/Documents/Signalstartnode_Madcapflare.md)
+
 

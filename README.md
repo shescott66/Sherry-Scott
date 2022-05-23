@@ -31,7 +31,7 @@ I have over 14 years of technical writing experience, including 7 years of remot
 Instruction Manuals -Process Guides - Technical Documents - Process Flows  - User Manuals - SOPs - Product Content
 
 ### Tools
-_Salesforce >_ _Confluence >_ _GitHub (markup) >_ _Visual Studio Code >_ _Atom >_ _Madcap Flare >_ _Jira >_ _Rally (Agile) >_ _Digital ai (Agile) >_ _Google Docs
+_Salesforce >_ _Confluence >_ _GitHub (markup) >_ _Visual Studio Code >_ _Atom >_ _Madcap Flare >_ _Jira >_ _Rally (Agile) >_ _Digital ai (Agile) >_ _Google Docs_
 
 ## DOCUMENTATION - Writing Examples
 

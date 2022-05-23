@@ -14,3 +14,18 @@ I have over 14 years of technical writing experience, including 7 years of remot
 
 - Managing technical writing teams
 
+## SKILLS
+
+### Core Skills
+- Convey complex information in simple language, write clearly and concise
+
+- Grasp technical subject quickly - clear understanding and knowledge of the product
+
+- Strong communication - interact with SMEs (Subject Matter Experts), identify and interview people who posssess knowledge important to documentation
+
+- Teamwork - work well with teams, strong communication with programmers, developers, engineers and architechs
+
+- Research and audience analysis - strong data analysis, present and capture data
+
+### Content
+User Manuals and Process Guides---Technical Documents---
